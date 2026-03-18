@@ -1,0 +1,18 @@
+{
+  "1": {
+    "title": "Buy groceries",
+    "body": "Milk, Eggs, Coffee"
+  },
+  "2": {
+    "title": "Call dentist",
+    "body": "Book appointment for next week"
+  },
+  "3": {
+    "title": "MCP Learning",
+    "body": "I built my first MCP server today!"
+  },
+  "4": {
+    "title": "Paris Weather - March 18, 2026",
+    "body": "Weather in Paris (checked March 18, 2026):\n- Condition: Clear sky\n- Temperature: 14.7\u00b0C\n- Humidity: 36%\n- Wind Speed: 17.1 km/h"
+  }
+}
